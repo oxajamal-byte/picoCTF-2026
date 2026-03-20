@@ -1,4 +1,4 @@
-# Heap Overflow
+# Heap Overflow -- 300 pts
 
 **Category:** Binary Exploitation
 
